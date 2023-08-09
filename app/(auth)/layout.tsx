@@ -1,7 +1,7 @@
 import {ClerkProvider} from "@clerk/nextjs";
 import {Inter} from "next/font/google";
-import "../globals.css"
 import {NextFont} from "next/dist/compiled/@next/font";
+import "../globals.css"
 
 export const metadata : { title : string, description : string } = {
     title : 'Threads',
